@@ -11,9 +11,20 @@ body {
 }
 
 header {
-  background-image: url(https://images.unsplash.com/photo-1562813733-b31f71025d54?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-image: url(vecteezy_3d-rendering-humanoid-robot-working-with-laptop-computer-on_25500884.jpg);
   height: 100vh;
   color: #25b79f;
+  text-align: center;
+  text-decoration-color: #25b79f;
+  background-repeat: no-repeat;
+  background-position: 0%;
+  background-size: cover;
+  
+}
+
+h1 {
+  color: #25b79f;
+
 }
 
 .container {
@@ -50,7 +61,8 @@ header {
 
 .menu-items a {
   text-decoration: none;
-  color: #f0f0e6;
+  color: #25b79f;
+  font-weight: 24%;
   font-size: 1.2rem;
   padding: 0.3rem;
 }
@@ -121,7 +133,7 @@ header {
   height: 200px;
   width: 150px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 66%;
 }
 
 .about-content p {
